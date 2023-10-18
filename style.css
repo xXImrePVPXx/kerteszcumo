@@ -1,0 +1,14 @@
+body{
+    background-color: #9bc9a7;
+    color: #072905;
+}
+div a:hover{
+    font-size: 18px;
+}
+.navbar{
+    background-color: #11d107;
+}
+img{
+    padding-left: 10px;
+    padding-right: 5px;
+}
