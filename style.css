@@ -12,3 +12,12 @@ img{
     padding-left: 10px;
     padding-right: 5px;
 }
+#udv p{
+    font-size: 0%;
+    transition-property: font-size;
+    transition-duration: 2s;
+}
+#udv p{
+    text-align: center;
+    font-size: xx-large;
+}
