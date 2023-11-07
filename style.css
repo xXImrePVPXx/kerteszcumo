@@ -28,7 +28,11 @@ img{
 
 .container{
     background-color: #9bc9a7;
+<<<<<<< HEAD
     height: 790px;
+=======
+    min-height: 700px;
+>>>>>>> d2c1d8eb36f74660387accd4001fc60b3bce96ba
 }
 
 .card{
@@ -62,7 +66,11 @@ img{
 }
 
 .footer{
+<<<<<<< HEAD
     height: 70px;
+=======
+    height: 10%;
+>>>>>>> d2c1d8eb36f74660387accd4001fc60b3bce96ba
     background-color: #11d107;
 }
 
