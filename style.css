@@ -26,31 +26,18 @@ img{
     font-size: xx-large;
 }
 
-.SITE{
-    margin-left: 10%;
-    margin-right: 10%;
+.container{
     background-color: #9bc9a7;
-    height: 750px;
-}
-
-.menu{
-    float: left;
-}
-
-.menu table tr td{
-    padding: 20px;
+    height: 800px;
 }
 
 .card{
     background-color: #11d107;
-    margin: 10%;
     text-align: center;
     width: 250px;
 }
 
 .card img{
-    margin-top: 5px;
-    margin-left: 23px;
     width: 200px;
     height: 200px;
 }
@@ -58,8 +45,6 @@ img{
 .card h3{
     background-color: #0b8b04;
     width: 200px;
-    margin-left: 25px;
-    margin-top: 5px;
     border-radius: 5px;
 }
 
@@ -67,24 +52,16 @@ img{
     color: #072905;
 }
 
+.card a h3{
+    transition: .3s ease-in-out;
+}
+
 .card a:hover h3{
     font-size: 30px;
     width: 210px;
-    margin-left: 20px;
-    transition-property: all;
-    transition-duration: 0.3s;
-}
-
-.iadat{
-    float: right;
 }
 
 .footer{
     height: 55px;
     background-color: #11d107;
-}
-
-.footer p{
-    padding-left: 10%;
-    margin: 0;
 }
