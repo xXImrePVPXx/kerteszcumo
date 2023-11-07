@@ -28,7 +28,7 @@ img{
 
 .container{
     background-color: #9bc9a7;
-    height: 800px;
+    min-height: 700px;
 }
 
 .card{
@@ -62,6 +62,6 @@ img{
 }
 
 .footer{
-    height: 55px;
+    height: 10%;
     background-color: #11d107;
 }
