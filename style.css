@@ -99,3 +99,7 @@ button {
 button:hover {
     background-color: #0b8b04;
 }
+
+#placeholder{
+    width: 400px;
+}
