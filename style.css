@@ -20,10 +20,6 @@ div a:hover{
     background-color: #11d107;
     height: 50px;
 }
-img{
-    padding-left: 10px;
-    padding-right: 5px;
-}
 #udv p{
     font-size: 0%;
     transition-property: font-size;
@@ -54,6 +50,7 @@ body[page="index.html"] .card{
 }
 
 .card img{
+    border:solid #072905 2px;
     width: 200px;
     height: 200px;
 }
