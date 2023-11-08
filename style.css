@@ -2,11 +2,19 @@ body{
     background-color: #27362b;
     color: #072905;
 }
-a{
+
+.nav-item{
+    font-size: 16px;
+    transition: .3s ease-in-out;
+    margin: 10px;
+}
+
+div a{
     text-decoration: none;
+    font-size: 16px;
 }
 div a:hover{
-    font-size: 18px;
+    font-size: 17px;
 }
 .navbar{
     background-color: #11d107;
@@ -31,10 +39,18 @@ img{
     min-height: 800px;
 }
 
+body[page="index.html"] .card{
+    background-color: #11d107;
+    text-align: center;
+    width: 250px;
+    max-height: 250px;
+}
+
 .card{
     background-color: #11d107;
     text-align: center;
     width: 250px;
+    max-height: 286px;
 }
 
 .card img{
